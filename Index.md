@@ -27,9 +27,12 @@
 #### 3.5 部署
 #### 3.6 监控和更新
 
-### 第三章 MLOps的成熟度
+### 第四章 MLOps的成熟度
 
-### 第四章 MLOps How
+### 第五章 MLOps In realworld
+#### 5.1 Case 1: 信用卡风险管理
+#### 5.2 Case 2: 市场推荐
+
 
 ### 第六章 工具之一：Pipeline
 #### 3.1 Pipeline工具概述
